@@ -1,0 +1,11 @@
+1.Find local Pizza shop
+2. Decide what Pizza to order
+3. Call the establishment
+4. Place order
+5a.If we pay over thhe phone then provide payment info
+        - Wait for delivery
+        -Tip the driver
+5b. If we pay at the door
+        -Wait for delivery
+        -Pay for pizza
+        -Tip the driver
